@@ -1,4 +1,4 @@
-package net.ahzz.share.sharejpa.query;
+package query;
 
 import net.ahzz.share.sharejpa.bean.Page;
 import net.ahzz.share.sharejpa.bean.SpringBoot;

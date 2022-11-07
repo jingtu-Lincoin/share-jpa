@@ -1,4 +1,4 @@
-package net.ahzz.share.sharejpa.query;
+package query;
 
 import java.util.ArrayList;
 

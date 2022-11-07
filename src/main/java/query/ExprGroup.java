@@ -1,4 +1,4 @@
-package net.ahzz.share.sharejpa.query;
+package query;
 
 /**
  * 对条件进行分组
