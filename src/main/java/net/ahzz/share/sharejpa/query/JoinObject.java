@@ -1,4 +1,4 @@
-package query;
+package net.ahzz.share.sharejpa.query;
 
 /**
  * 连接对象

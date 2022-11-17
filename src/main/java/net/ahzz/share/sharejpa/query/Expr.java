@@ -1,4 +1,4 @@
-package query;
+package net.ahzz.share.sharejpa.query;
 
 import org.apache.commons.lang3.ArrayUtils;
 

@@ -1,4 +1,4 @@
-package query;
+package net.ahzz.share.sharejpa.query;
 
 /**
  * 用于更新，删除操作的对象

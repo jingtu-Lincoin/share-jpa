@@ -1,4 +1,4 @@
-package query;
+package net.ahzz.share.sharejpa.query;
 
 import org.springframework.data.domain.Example;
 import org.springframework.data.domain.Pageable;

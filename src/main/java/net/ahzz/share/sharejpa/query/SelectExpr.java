@@ -1,4 +1,4 @@
-package query;
+package net.ahzz.share.sharejpa.query;
 
 
 import net.ahzz.share.sharejpa.util.BaseUtil;

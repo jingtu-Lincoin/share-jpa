@@ -3,6 +3,7 @@ package net.ahzz.share.sharejpa.service;
 import net.ahzz.share.sharejpa.bean.Page;
 import net.ahzz.share.sharejpa.bean.ResultInfo;
 import net.ahzz.share.sharejpa.bean.SpringBoot;
+import net.ahzz.share.sharejpa.query.*;
 import net.ahzz.share.sharejpa.util.BaseUtil;
 import net.ahzz.share.sharejpa.util.ObjectUtil;
 import net.ahzz.share.sharejpa.util.TimeUtil;
@@ -16,7 +17,6 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.transaction.annotation.Transactional;
-import query.*;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
