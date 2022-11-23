@@ -56,4 +56,12 @@ public class Order {
        return order;
     }
 
+    public static Order asc(String name){
+        return new Order(name,DIRECTION_ASC);
+    }
+
+    public static Order desc(String name){
+        return new Order(name,DIRECTION_DESC);
+    }
+
 }
